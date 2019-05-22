@@ -1,0 +1,16 @@
+{
+  "license": "BSD-3-Clause",
+  "name": "hsluv_util",
+  "version": "0.0.5",
+  "description": "Utilities I want to have when using hsluv. No stable api yet.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "lahwran",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lahwran/hsluv_util.git"
+  },
+  "dependencies": {
+    "hsluv": "0.0.3"
+  }
+}
